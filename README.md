@@ -1,4 +1,5 @@
-# Implementation-of-Erosion-and-Dilation
+<h1 align="center">Implementation of Erosion and Dilation</h1>
+
 ## Aim
 To implement Erosion and Dilation using Python and OpenCV.
 ## Software Required
